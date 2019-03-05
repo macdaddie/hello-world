@@ -1,4 +1,4 @@
 <?php
 	
-echo "Hello World from ".gethostname()
+echo "Hello World v2 from ".gethostname()
 ?>
